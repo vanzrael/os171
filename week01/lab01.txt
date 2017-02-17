@@ -20,3 +20,7 @@ drwxr-xr-x  2 jahns.christian StafCS 4096 Feb 17 21:47 week09
 drwxr-xr-x  2 jahns.christian StafCS 4096 Feb 17 21:47 week10
 drwxr-xr-x  2 jahns.christian StafCS 4096 Feb 17 21:48 xtra
 /home/fasilkom/mahasiswa/j/jahns.christian/os171/week01
+Today is 
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%%S
+Today is 17 Feb 2017 at 22:39:%S
+Today is 17 Feb 2017 at 22:39:%S
