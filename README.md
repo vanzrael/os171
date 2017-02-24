@@ -1,2 +1,2 @@
 # os171
-OS Week 0 Assignment
+Repository for OS tasks
