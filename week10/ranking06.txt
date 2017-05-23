@@ -1,0 +1,19 @@
+-----------------------------------------
+RANKING06 ULASAN PESERTA OS 2017-1
+-----------------------------------------
+01. [W06-001] 380 http://jeffry41os.blogspot.co.id/p/ulasan-1-os.html
+02. [W06-014] 380 http://os-muhammad.blogspot.co.id/2017/05/ulasan1.html
+03. [W06-004] 365 http://materiostinnafauziah.blogspot.co.id/2017/05/ulasan-2.html
+04. [W06-025] 360 http://arieftritomoos.blogspot.co.id/2017/05/ulasan-2-how-do-cpus-use-multiple-cores.html
+05. [W06-024] 345 http://adiguna-os171.blogspot.co.id/2017/05/fungsi-fork-dalam-unix.html
+06. [W06-030] 335 http://gheafanywp.blogspot.co.id/2017/05/binding-virtual-memory.html
+07. [W06-022] 335 http://anab-os.blogspot.co.id/2017/05/ulasan2-dining-philosopers-problem.html
+08. [W06-034] 335 http://graceanglc.blogspot.co.id/2017/05/multiprocessing-vs-multithreading.html
+09. [W06-032] 325 http://maulafaiz.blogspot.co.id/2017/05/ulasan-2-os.html
+10. [W06-031] 320 http://faisalsatrio.blogspot.co.id/2017/05/ulasan-2-operating-systems-example-1002.html
+-------------------------------------------
+Oleh 			: vanzrael
+URL Blog Ranking: http://vanzrael.blogspot.co.id/2017/05/ranking06.html
+Revisi Pertama	: 23 Mei 2017
+Revisi Terakhir	: 23 Mei 2017
+-------------------------------------------
